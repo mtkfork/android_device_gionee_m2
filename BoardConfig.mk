@@ -39,7 +39,7 @@ BOARD_GLOBAL_CPPFLAGS += -DMTK_HARDWARE
 BLOCK_BASED_OTA :=false
 
 # RIL
-BOARD_RIL_CLASS := ../../../device/gionee/m2/ril/
+#BOARD_RIL_CLASS := ../../../device/gionee/m2/ril/
 
 BOARD_CONNECTIVITY_VENDOR := MediaTek
 BOARD_CONNECTIVITY_MODULE := conn_soc
