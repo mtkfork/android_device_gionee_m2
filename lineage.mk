@@ -9,7 +9,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := m2
-PRODUCT_NAME := cm_m2
+PRODUCT_NAME := lineage_m2
 PRODUCT_BRAND := gionee
 PRODUCT_MODEL := m2
 PRODUCT_MANUFACTURER := gionee 

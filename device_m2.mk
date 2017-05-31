@@ -13,7 +13,7 @@ endif
 
 PRODUCT_TAGS += dalvik.gc.type-precise
 
-PRODUCT_PACKAGES += Torch
+#PRODUCT_PACKAGES += Torch
 
 PRODUCT_PACKAGES += \
     libxlog
@@ -126,12 +126,12 @@ PRODUCT_PACKAGES += \
     libtinyxml
 
 # Camera
-PRODUCT_PACKAGES += \
-    Snap
+#PRODUCT_PACKAGES += \
+    #Snap
     
 # Gello 
-PRODUCT_PACKAGES+=\
-    Gello 
+#PRODUCT_PACKAGES+=\
+    #Gello 
 
 # YGPS
 PRODUCT_PACKAGES+=\
