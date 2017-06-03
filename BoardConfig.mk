@@ -18,7 +18,7 @@ TARGET_CPU_MEMCPY_OPT_DISABLE := true
 BOARD_HAS_NO_SELECT_BUTTON := true
 
 # Enable dex-preoptimization
-WITH_DEXPREOPT := true 
+WITH_DEXPREOPT := false
 DONT_DEXPREOPT_PREBUILTS := true
 
 # Bootloader
