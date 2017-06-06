@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-add_lunch_combo lineage_m2-user 
-add_lunch_combo lineage_m2-userdebug
-add_lunch_combo lineage_m2-eng
+add_lunch_combo aosp_m2-user 
+add_lunch_combo aosp_m2-userdebug
+add_lunch_combo aosp_m2-eng
